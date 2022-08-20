@@ -1,4 +1,12 @@
-.container img{
-    height: 1600;
-    width: 1000;
+#galeria .col-lg-4{
+    padding: 25px;
+}
+
+#galeria img{
+    width: 100%;
+    height: 300px;
+}
+
+#galeria img:hover{
+    border: 5px solid #f7f7f7
 }
