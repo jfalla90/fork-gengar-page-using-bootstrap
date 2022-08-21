@@ -7,6 +7,19 @@
     height: 300px;
 }
 
+.navbar a{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
 #galeria img:hover{
     border: 5px solid #f7f7f7
+}
+
+.btn-form{
+    background-color: blueviolet !important;
+}
+
+.btn-form:hover{
+    background-color: rgb(99, 39, 159);
 }
